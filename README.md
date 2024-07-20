@@ -56,4 +56,10 @@ The dataset used for this project consists of headlines labeled as sarcastic or 
 4. **Prediction**: The trained model predicts whether a given text is sarcastic or not based on the input provided in the web app.
 
 ## Example
+Enter a Text: Cows lose their jobs as milk prices drop
+Output: Sarcasm
+---
 
+<p align="center">
+  <img src="path/to/your/favicon.ico" alt="Sarcasm Detector" width="100" height="100">
+</p>
