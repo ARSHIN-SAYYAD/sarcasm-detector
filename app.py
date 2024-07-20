@@ -2,6 +2,10 @@ import streamlit as st
 from detection import detect_sarcasm
 import base64
     
+st.set_page_config(
+    page_title="Sarcasm Detector",
+    page_icon="favicon.ico",  # Path to your favicon file
+)
 
 titleimg = "img.webp"
 def set_bg_hack(main_bg):
